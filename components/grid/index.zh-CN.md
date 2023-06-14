@@ -1,6 +1,6 @@
 ---
 category: Components
-subtitle: 栅格
+subtitle: 栅格1
 group: 布局
 title: Grid
 cover: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*mfJeS6cqZrEAAAAAAAAAAAAADrJ8AQ/original
